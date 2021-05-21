@@ -36,14 +36,11 @@
 
 ## About The Project
 
-<br />
-<br />
-
 An AppleTV Test application demonstrating how easy app development can be.
 
 ### Built With
 
-TMVL using the default templates
+TMVL using the default templates. See https://developer.apple.com/documentation/tvml
 
 <!-- GETTING STARTED -->
 
@@ -75,9 +72,9 @@ This project uses [XCode](https://developer.apple.com/xcode/), We also recommend
 
 ## Usage
 
-1. Update local IP
+1. 
    Add your local IP to `AppDelegate.swift`
-2. Run the project
+2. 
    Open `TestTvApp.xcodeproj` in XCode and run the project.
 
 
@@ -108,4 +105,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Twitter - [@TwiggyBuffalo](https://twitter.com/twiggybuffalo)
+<br />
 LinkedIn - [@TwiggyBuffalo](https://linkedin.com/in/twiggybuffalo)
