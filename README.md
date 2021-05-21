@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/twiggybuffalo/appletv-test">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Apple_TV.svg/1200px-Apple_TV.svg.png" alt="Logo" width="300" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Apple_TV.svg/1200px-Apple_TV.svg.png" alt="Logo" width="250" height="120">
   </a>
 
   <h3 align="center">AppleTV Test</h3>
